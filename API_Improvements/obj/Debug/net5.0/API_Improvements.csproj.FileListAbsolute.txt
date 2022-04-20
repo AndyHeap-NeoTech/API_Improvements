@@ -1,0 +1,16 @@
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\bin\Debug\net5.0\API_Improvements.exe
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\bin\Debug\net5.0\API_Improvements.deps.json
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\bin\Debug\net5.0\API_Improvements.runtimeconfig.json
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\bin\Debug\net5.0\API_Improvements.runtimeconfig.dev.json
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\bin\Debug\net5.0\API_Improvements.dll
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\bin\Debug\net5.0\ref\API_Improvements.dll
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\bin\Debug\net5.0\API_Improvements.pdb
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\obj\Debug\net5.0\API_Improvements.csproj.AssemblyReference.cache
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\obj\Debug\net5.0\API_Improvements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\obj\Debug\net5.0\API_Improvements.AssemblyInfoInputs.cache
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\obj\Debug\net5.0\API_Improvements.AssemblyInfo.cs
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\obj\Debug\net5.0\API_Improvements.csproj.CoreCompileInputs.cache
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\obj\Debug\net5.0\API_Improvements.dll
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\obj\Debug\net5.0\ref\API_Improvements.dll
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\obj\Debug\net5.0\API_Improvements.pdb
+C:\Git\PersonalRepos\API_Improvements\API_Improvements\obj\Debug\net5.0\API_Improvements.genruntimeconfig.cache
